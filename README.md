@@ -3,7 +3,7 @@ cara pakai :
 2. masuk ke directory project
 3. jalankan perintah "node -v", pastikan keluar output seperti contoh "v21.5.0"
 4. jalankan perintah "npm init"
-5. jalankan perintah "npm install"
+5. jalankan perintah "npm-install-express"
 6. jalankan perintah "node index.js" 
 7. buka browser dan ketikkan alamat "http://localhost:6969/"
 8. selamat mencoba 
